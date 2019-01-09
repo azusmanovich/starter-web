@@ -8,3 +8,5 @@ Unknown purpose
 No comment
 ## Deployment
 No deployment
+#### Copyright
+2019 Git.Training.
