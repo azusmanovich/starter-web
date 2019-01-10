@@ -3,6 +3,7 @@ This is a simple web project
 Addint new line for rebasing.
 More features.
 After stash
+Emergancy fix
 ## Introduction
 This is example for simple web project
 ## Purpose
