@@ -5,6 +5,7 @@
 
     alexz - SW ENG
     Before stashing
+    simple change for multiple stash
 # THANKS
     10x all ===>>>>>
 
