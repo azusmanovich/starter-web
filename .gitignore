@@ -1,2 +1,3 @@
 .ignorfile
 log/
+*.orig
